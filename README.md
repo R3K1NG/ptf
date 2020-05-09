@@ -4,11 +4,9 @@ The PenTesters Framework (PTF)
 
 #### A TrustedSec Project - Copyright 2020
 
-### Written by: David Kennedy (@HackingDave)
 
-https://www.trustedsec.com
+https://www.easypc.ir
 
-### Twitter: @TrustedSec, @HackingDave
 
 The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing. As pentesters, we've been accustom to the /pentest/ directories or our own toolsets that we want to keep up-to-date all of the time. We have those "go to" tools that we use on a regular basis, and using the latest and greatest is important.
 
